@@ -1,5 +1,4 @@
-# suzuki-final-project
-Final Project
+# final-project
 
 ## Setup
 
